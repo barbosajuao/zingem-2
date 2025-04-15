@@ -1,5 +1,6 @@
 
-
+@import url(responsivo.css);
+@import url(nav.css);
 
 
 
@@ -23,9 +24,18 @@
     padding: 0;
     box-sizing: border-box;
     font: inherit;
+    ul{list-style-type : none}
+    font-family: inter;
+    
 }
 
 ul[role="list"]{
 	list-style: none;
+    list-style-type : none
 }
+
+
+body{
+    background-color: #000000;
+} 
 

@@ -1,0 +1,34 @@
+
+
+
+@media  (max-width:550px){
+    nav #desktop{
+        display: none;
+    }  
+    nav .container-conteudo{
+        display: none;
+        
+    }
+     nav .conaitner-mobile{
+        display: block;
+        width: 90%;
+        
+        margin: auto;
+    }
+    nav .mobile{
+        display: flex;
+        justify-content: space-between;
+    }
+    nav .mobile .logo{
+        width: 70%;
+        font-size: 25px;
+    }
+    nav .mobile .btn-nav-mobeli{
+        width: 120px;
+        height: 45px;
+        margin-top: 26px;
+        border-radius: 10px;
+        border: none;
+    }
+}
+    

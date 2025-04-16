@@ -1,41 +1,20 @@
+/* reset */
+@import url(reset.css);
 
-@import url(responsivo.css);
+/* variaveis */
+@import url(variaveis.css);
+
+/* section */
 @import url(nav.css);
+@import url(sec01.css);
+
+/* responsive */
+@import url(responsive-mobile.css);
 
 
 
 
 
-
-:root {
-    --background-color:#09090B;
-    --surface-color:#18181B;
-    --stoke-color:#27272A;
-    --text-color-primary:#F4F4F5;
-    --test-color-secondary:#A1A1AA;
-    --brand-gradient:linear-gradient(90deg,#FC4A1A, #F7B733);
-    --brand-color-primary:#F7B733;
-    --brand-color-secondary:#FC4A1A;
-
-}
     
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font: inherit;
-    ul{list-style-type : none}
-    font-family: inter;
-    
-}
 
-ul[role="list"]{
-	list-style: none;
-    list-style-type : none
-}
-
-
-body{
-    background-color: #000000;
-} 
 

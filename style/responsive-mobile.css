@@ -33,5 +33,28 @@
         border-radius: 10px;
         border: none;
     }
+
+    /* responsividade sec-01 */
+    .sec-01{
+       height: 800px;
+        
+        background-image: url(/assets/img/fundo-mobile.png);
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+    }
+    .container-sec-o1{
+        margin-top: 40px;
+
+    }
+    .img-sec-01{
+       width: 60%;
+       height: 100px;
+    }
+    .container-sec-o1 h1{
+        font-size: 45px;
+    }
+    .container-sec-o1 h5{
+        font-size: 20px;
+    }
 }
     

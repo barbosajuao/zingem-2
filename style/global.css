@@ -7,6 +7,7 @@
 /* section */
 @import url(nav.css);
 @import url(sec01.css);
+@import url(sec02.css);
 
 /* responsive */
 @import url(responsive-mobile.css);

@@ -36,7 +36,7 @@
 
     /* responsividade sec-01 */
     .sec-01{
-       height: 800px;
+       height: 900px;
         
         background-image: url(/assets/img/fundo-mobile.png);
         background-size: 100% 100%;
@@ -55,6 +55,33 @@
     }
     .container-sec-o1 h5{
         font-size: 20px;
+    }
+    /* responsividade sec-02 */
+    .sec-02{
+        margin-top: -1px;
+        height: 500px;
+    }
+    .flex-sec-02{
+        width: 100%;
+        flex-direction: column-reverse;
+    }
+    .text-sec-02{
+        width: 95%;
+        margin: 0 auto;
+        padding: 0px;
+        margin-top: 30px;
+
+
+    }
+    .text-sec-02 h1{
+        font-size: 30px;
+    }
+    .img-sec-02{
+        width: 90%;
+        height: 400px;
+        margin:0 auto;
+        background-size: 100% 100%;
+        margin-top: -400px;
     }
 }
     

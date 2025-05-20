@@ -5,7 +5,7 @@
     padding-top: 80px;
 }
 .card1, .card2, .card3, .card4, .card5{
-    background-color: var(--stoke-color);
+    background-color: var(--surface-color);
     border-radius: 30px;
     height: 600px;
 }

@@ -23,16 +23,18 @@ nav{
     
 }
 
-ul{ 
+#desktop ul{ 
     width: 80%;
     display: flex;
     justify-content: space-around;
     color: var(--test-color-secondary);
     line-height: 96px;
     font-size: 18px;
+    padding-top: 35px;
+   
     
 }
-li{
+#desltop li{
     cursor: pointer;
 }
 

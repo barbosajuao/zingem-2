@@ -68,6 +68,7 @@
 .btn-card1-sec-4 p{
     font-size: 20px;
     color: var(--text-color-primary);
+    
 
 }
 .img-divisoria{
@@ -79,23 +80,23 @@
     margin-top: 40px;
 }
 
-ul{
+.sec-4 ul{
     width: 100%;
     margin-top: 30px;
     display: flex;
     flex-direction: column;
     
 }
-ul li{
+.sec-4 ul li{
     display: flex;
     height: 60px;
     gap: 10px;
     align-items: flex-start;
 }
 ul p{
-    font-size: 16px;
+    font-size: 20px;
     line-height: 1.4;
-    
+    color: var(--text-color-primary);
 }
 
 

@@ -137,6 +137,37 @@
     .card4, .card5{
         height: 450px;
     }
+
+   /* sec 04 */
+
+   .flex-sec04{
+
+    flex-direction: column;
+    .card1-sec4, .card2-sec4, .card3-sec4{
+    width: 90%;
+    height: 800px;
+    margin-top: 50px;
+    
+    }        
+    align-items: center;
+    }
+    .sec-4{
+        height: 3800px;
+    }
+    .txt-sec-4{
+        
+        width: 90%;
+        height: 150px;
+        margin-top: 950px;
+        margin-bottom: 0px;
+        
+    }
+    .txt-sec-4 h5{
+        font-size: 35px;
+        line-height: 30px;
+        margin-top: 10px;
+    }
+   
    
 }
     

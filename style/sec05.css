@@ -9,5 +9,64 @@
     background-color:var(--surface-color) ;
     margin: 0 auto;
     border-radius: 20px;
-    margin-top: 300px;
+    margin-top: 200px;
+    display: flex;
+}
+.sec-5-txt{
+    width: 50%;
+    padding-top: 15%;
+    padding-left:60px;
+    
+}
+.img-sec-5{
+    width: 50%;
+    
+}
+.sec-5-txt h1{
+    color: var( --brand-color-primary);
+}
+.sec-5-txt h2{
+    font-size: 50px;
+    color: var(--text-color-primary);
+    font-weight: bold;
+    margin-top: 10px;
+}
+.sec-5-txt p{
+    
+    color: var(--test-color-secondary);
+    margin-top: 15px;
+    font-size: 25px;
+}
+.links-sec-5{
+    width: 400px;
+    height: 60px;
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+}
+.link-1 , .link-2{
+    width: 50%;
+    height: 100%;
+    
+}
+.link-1{
+    background-image: url(/assets/img/image\ copy\ 3.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    cursor: pointer;
+}
+.link-2{
+    background-image: url(/assets/img/image\ copy\ 4.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    cursor: pointer;
+}
+.img-sec-5 .img{
+    width: 60%;
+    height: 130%;
+    background-image: url(/assets/img/image\ copy.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin: 0 auto;
+    margin-top: -110px;
 }

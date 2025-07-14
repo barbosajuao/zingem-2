@@ -1,0 +1,26 @@
+/* reset */
+@import url(/style/global/reset.css);
+
+/* variaveis */
+@import url(/style/global/variaveis.css);
+
+/* section */
+@import url(/style/import/nav.css);
+@import url(/style/import/sec01.css);
+@import url(/style/import/sec02.css);
+@import url(/style/import/sec03.css);
+@import url(/style/import/sec04.css);
+@import url(/style/import/sec05.css);
+@import url(/style/import/sec06.css);
+
+
+/* responsive */
+@import url(/style/mobile/responsive-mobile.css);
+
+
+
+
+
+    
+
+

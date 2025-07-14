@@ -1,0 +1,28 @@
+.section-06{
+    width: 96%;
+    height: 300px;
+    
+    margin: 0 auto;
+    margin-top: 200px;
+    
+}
+.logo-footer{
+    width: 20%;
+    
+}
+.logo-footer p{
+    font-size: 35px;
+    color: var( --text-color-primary);
+    font-weight: bold;
+    font-family: paytone One;
+}
+.container-sec-06{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    color: var( --test-color-secondary);
+}
+li{
+    margin-bottom: 15px;
+    cursor: pointer;
+}

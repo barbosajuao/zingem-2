@@ -152,7 +152,7 @@
     align-items: center;
     }
     .sec-4{
-        height: 3800px;
+        height: 2600px;
     }
     .txt-sec-4{
         
@@ -167,6 +167,26 @@
         line-height: 30px;
         margin-top: 10px;
     }
+   /* sec-05 */
+
+    .container-sec-5{
+        display: flex;
+        flex-direction: column;
+    }
+    .sec-5-txt{
+        width: 100%;
+        text-align: center;
+        padding: 10px;
+        padding-top: 100px;
+
+    }
+    .links-sec-5{
+        
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+    /* sec6 */
+    
    
    
 }

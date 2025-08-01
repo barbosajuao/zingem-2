@@ -1,0 +1,50 @@
+.container-footer{
+    width: 98%;
+    height: 40px;
+    
+    margin: auto;
+    display: flex;
+    margin-bottom: 30px;
+}
+.div-icon{
+    width: 50%;
+    display: flex;
+    gap: 10px;
+}
+.img-tiktok , .img-instagran , .img-x , .img-discord{
+    width: 40px;
+    height: 30px;
+    
+}
+.img-tiktok{
+    background-image: url(/assets/svg/ic_baseline-tiktok.svg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    cursor: pointer;
+}
+.img-instagran{
+    background-image: url(/assets/svg/mdi_instagram.svg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    cursor: pointer;
+}
+.img-x{
+    background-image: url(/assets/svg/ri_twitter-x-fill.svg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    cursor: pointer;
+}
+.img-discord{
+    background-image: url(/assets/svg/ic_baseline-discord.svg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    cursor: pointer;
+}
+.div-copy{
+    width: 50%;
+    display: flex;
+    justify-content: flex-end;
+    line-height:40px;
+    color: var(--test-color-secondary);
+    
+}
